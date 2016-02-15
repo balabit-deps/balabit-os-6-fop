@@ -1,0 +1,4 @@
+04_fixqdoxbuildfailure.patch
+fixbuildxml.patch
+replace-sRGB-profile.patch
+hyph_stacksize.patch
